@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of AI Agent System Designer",
+  "description": "An application to visually design and generate configurations for AI agent systems using Vertex AI Agent Builder, powered by Gemini.",
+  "requestFramePermissions": []
+}
